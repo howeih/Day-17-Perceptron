@@ -1,4 +1,4 @@
-#Day 17: Perceptron
+#Day 17: Perceptron<br/>
 Perceptron is a beautiful statistical learning device for classification.
 <br/>
 Perceptron is very simple to implement, it is an online algorithm, but what’s most important, it is a combination of mathematical function, learning algorithm and a proof of the algorithm correctness when applied on linearly separable sets.
